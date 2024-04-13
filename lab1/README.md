@@ -10,7 +10,7 @@ You need to set up mini UART, and let your host and rpi3 can communicate through
 * Set up mini UART.
 * Set up mailbox.
 
-### Exercise
+### Exercises
 * Initialization
 * Mini UART
 * Shell
