@@ -1,7 +1,7 @@
 # OSDI_2024
 
 ## Introduction 
-課程名稱: 2024 交大 葉宗泰 作業系統總整與實作
+課程名稱: 2024 交大資工所 葉宗泰 作業系統總整與實作
 
 ## Goal of this course
 ### Cross-Platform development
