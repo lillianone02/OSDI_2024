@@ -4,6 +4,9 @@
 課程名稱: 2024 交大資工所 葉宗泰 作業系統總整與實作
 
 ## Goal of this course
+利用C與Assembly code 實作出小型OS
+![image](https://github.com/lillianone02/OSDI_2024/assets/47809755/f73c654f-6141-4a7e-8766-68a4a6303544)
+
 ### Cross-Platform development
 64-bit ARM machine code
 install cross compiler
