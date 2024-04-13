@@ -8,7 +8,10 @@
 ![image](https://github.com/lillianone02/OSDI_2024/assets/47809755/f73c654f-6141-4a7e-8766-68a4a6303544)
 ![image](https://github.com/lillianone02/OSDI_2024/assets/47809755/b67f5e9f-a7b6-4516-b330-a1d166f8ee29)
 
-
+### SPEC規格書
+https://cs140e.sergio.bz/docs/BCM2837-ARM-Peripherals.pdf
+https://developer.arm.com/documentation/ddi0487/aa/?lang=en
+https://github.com/Tekki/raspberrypi-documentation/blob/master/hardware/raspberrypi/bcm2836/QA7_rev3.4.pdf
 ### Cross-Platform development
 64-bit ARM machine code
 install cross compiler
