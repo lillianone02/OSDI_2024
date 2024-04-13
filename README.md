@@ -6,6 +6,8 @@
 ## Goal of this course
 利用C與Assembly code 實作出小型OS
 ![image](https://github.com/lillianone02/OSDI_2024/assets/47809755/f73c654f-6141-4a7e-8766-68a4a6303544)
+![image](https://github.com/lillianone02/OSDI_2024/assets/47809755/b67f5e9f-a7b6-4516-b330-a1d166f8ee29)
+
 
 ### Cross-Platform development
 64-bit ARM machine code
