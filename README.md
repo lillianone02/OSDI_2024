@@ -20,4 +20,4 @@ To prepare a bootable image for rpi3, you have to prepare at least the following
 
 * Plug in the UART to USB converter to your host machine, and open it through a serial console such as screen or putty with the correct baud rate.
 
-* Connect TX, RX, GND to the corresponding pins on rpi3, and turn on your rpi3. You can follow the picture below to set up your UART.
+* Connect TX, RX, GND to the corresponding pins on rpi3, and turn on your rpi3.
